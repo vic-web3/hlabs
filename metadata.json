@@ -1,0 +1,5 @@
+{
+  "name": "OpenClaw Agent Sim",
+  "description": "A multi-agent workflow simulator mimicking a Telegram Topic architecture. Features a Director, Engineer, Critic, and Creator collaborating to solve user tasks using Gemini 2.5/3.0.",
+  "requestFramePermissions": []
+}
